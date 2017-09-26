@@ -1,6 +1,1 @@
-/composer.lock
-/app/cache/
-/app/logs/
-/vendor
-composer.phar
-php-cs-fixer.phar
+/vendor/

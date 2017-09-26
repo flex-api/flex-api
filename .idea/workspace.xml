@@ -2,16 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cafd9d9-8532-4c6c-92b4-b3357bd2ec41" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/console" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/templates/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/flex/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/.gitkeep" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/flex-api.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/console" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/dev.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/prod.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/index_dev.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/apple-touch-icon.png" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/apple-touch-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/favicon.ico" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/img/Thumbs.db" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/img/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/img/glyphicons-halflings-white.png" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/img/glyphicons-halflings-white.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/img/glyphicons-halflings.png" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/img/glyphicons-halflings.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/tile-wide.png" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/tile-wide.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/tile.png" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/tile.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/.blackfire.yml" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/.blackfire.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/.gitignore" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/.platform.app.yaml" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/.platform.app.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/.platform/routes.yaml" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/.platform/routes.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/.travis.yml" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/LICENSE" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/Procfile" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/Procfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/README.md" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/app.json" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/app.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/composer.json" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/composer.lock" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/package.json" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/phpunit.xml" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/phpunit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/config/dev.php" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/config/dev.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/config/heroku.php" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/config/heroku.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/config/prod.php" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/config/prod.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/config/test.php" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/config/test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/db/schema.php" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/db/schema.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/templates/cache.html.twig" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/templates/cache.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/templates/doctrine.html.twig" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/templates/doctrine.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/templates/form.html.twig" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/templates/form.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/templates/index.html.twig" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/templates/index.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/templates/layout.html.twig" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/templates/layout.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/templates/login.html.twig" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/templates/login.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/translations/fr.yml" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/translations/fr.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/src/App/Application.php" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/src/App/Application.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/src/App/Composer/Script.php" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/src/App/Composer/Script.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/src/App/Console/Application.php" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/src/App/Console/Application.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/src/App/ControllerProvider.php" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/src/App/ControllerProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/tests/functional/ApplicationTest.php" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/tests/functional/ApplicationTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/var/.gitkeep" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/var/.gitkeep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/.htaccess" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/browserconfig.xml" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/browserconfig.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/crossdomain.xml" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/crossdomain.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/index.php" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/index_dev.php" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/index_dev.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/js/libs/jquery-1.7.2.min.js" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/js/libs/jquery-1.7.2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/js/libs/modernizr-2.5.3-respond-1.1.0.min.js" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/js/libs/modernizr-2.5.3-respond-1.1.0.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/robots.txt" afterPath="$PROJECT_DIR$/../Silex-Kitchen-Edition/web/robots.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,7 +72,27 @@
     <executablePath>composer</executablePath>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="controllers.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/controllers.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>app.php</find>
+      <find>run(</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>index.php</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,6 +104,13 @@
         <option value="$PROJECT_DIR$/web/index.php" />
         <option value="$PROJECT_DIR$/app/app.php" />
         <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/config/dev.php" />
+        <option value="$PROJECT_DIR$/config/prod.php" />
+        <option value="$PROJECT_DIR$/web/app.php" />
+        <option value="$PROJECT_DIR$/web/.htaccess" />
+        <option value="$PROJECT_DIR$/vendor/silex/silex/src/Silex/Application.php" />
+        <option value="$PROJECT_DIR$/src/app.php" />
+        <option value="$PROJECT_DIR$/src/controllers.php" />
       </list>
     </option>
   </component>
@@ -46,11 +121,14 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="171" />
     <option name="y" value="24" />
     <option name="width" value="1020" />
     <option name="height" value="993" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -76,6 +154,16 @@
               <item name="flex-api" type="b2602c69:ProjectViewProjectNode" />
               <item name="flex-api" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="flex-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flex-api" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="flex-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flex-api" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -85,11 +173,15 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../novibeograd" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$/var" />
+      <recent name="$PROJECT_DIR$/config" />
+      <recent name="$PROJECT_DIR$/bin" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/OLD" />
@@ -117,19 +209,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506426999383</updated>
-      <workItem from="1506427082543" duration="2411000" />
+      <workItem from="1506427082543" duration="3873000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2411000" />
+    <option name="totallyTimeSpent" value="3873000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1920" height="1021" extended-state="6" />
+    <frame x="0" y="-4" width="1920" height="1021" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23639274" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23639274" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -157,50 +250,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/console.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/console">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/dev.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/prod.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controllers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -317,10 +370,164 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Silex-Kitchen-Edition/bin/console">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/console">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Silex-Kitchen-Edition/resources/db/schema.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Silex-Kitchen-Edition/web/index_dev.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App/Console/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Silex-Kitchen-Edition/web/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/composer.lock">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../novibeograd/web/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="28" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/prod.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/dev.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/errors/404.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/errors/500.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="48" column="22" lean-forward="false" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/silex/silex/src/Silex/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="495" column="38" lean-forward="false" selection-start-line="495" selection-start-column="38" selection-end-line="495" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index_dev.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="e#7#29#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
           <folding />
         </state>
       </provider>

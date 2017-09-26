@@ -1,6 +1,6 @@
 {
-    "name": "flex-api/flex-api",
-    "description": "Flex Api",
+    "name": "fabpot/silex-skeleton",
+    "description": "A pre-configured skeleton for the Silex microframework",
     "license": "MIT",
     "type": "project",
     "require": {
